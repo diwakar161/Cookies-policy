@@ -1,0 +1,124 @@
+.aline{
+    margin-left: 11vw;
+    margin-right: 11vw;
+     
+}
+
+.cookies{
+    color:orangered;
+    margin-left: 5vw;
+    font-family: arial;
+    font-size: 1.6vw;
+    font-weight: 700;
+    margin-left: 0.01vw;
+    
+    
+}
+.intro{
+  font-family: arial;
+  font-size: 1vw;
+  font-weight: bolder;
+}
+.para{
+    font-size: 0.9vw;
+    font-weight: 0.9vw;
+    font-family: arial;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+    
+}
+.heading{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 0.9vw;
+    margin-left: 2vw;
+}
+.ghead{
+
+    font-family: arial;
+    font-weight: bold;
+    font-size: 0.9vw;
+    margin-left: 2vw;
+
+}
+.link{
+    font-size:0.95vw ;
+    word-spacing: 0.9;
+    margin-bottom: 1.5vw;
+    color:#2568f7;
+    text-decoration: none;
+}
+.link2{
+    font-size:0.95vw ;
+    word-spacing: 0.9;
+    margin-bottom: 1vw;
+    color:#2568f7 ;
+    text-decoration: none;
+
+}
+.italic{
+    font-weight: bold;
+    font-size: 0.90vw;
+}
+.prelink{
+    font-size: 0.90vw;
+    word-spacing: 0.9;
+}
+.scrolltop{
+    margin-inline-start: 93vw;
+    width: 2.5vw;
+    height: 3vw;
+    background-color: grey;
+    margin-bottom: 5vw;
+    
+    
+}
+.presection{
+    text-decoration: none;
+    color:#2568f7;
+    font-weight: 200;
+}
+.inlink{
+    text-decoration: none;
+    color:#2568f7;
+    font-weight: 200
+
+}
+.nobutton{
+    border: 0vw;
+    background: none;
+    color: #2568f7;
+    outline: none;
+    font-size: 0.9vw;
+
+}
+
+table {
+    width: 75vw;
+    height: 20vw;
+    border-collapse: collapse;
+     
+  }
+
+  th {
+    border-bottom: 1px solid black;
+    border:1px solid #dabfbf;
+    font-weight: lighter;
+    text-align: left;
+    padding: 0.8vw;
+    background-color: #ddd9d9;
+    font-weight: bold;
+    font-size: small;
+    
+    
+  }
+  
+  td {
+    text-align: left ;
+    
+    border: 1px solid #dabfbf;
+  }
+  .twohead{
+    font-size: 0.95vw;
+    font-weight: 600;
+  }
